@@ -1,7 +1,10 @@
 ## Hi there 👋 I Am Thabane Ngobe
 ### About Me
-Hi! I’m Thabane Ngobe, a recent graduate from the WeThinkCode_ with a Certificate in IT(Systems Development). While I haven’t completed formal internships yet, I’ve dedicated my time to working on personal projects that showcase my skills in web development and programming.
+Hi! I’m Thabane Ngobe, a recent graduate from WeThinkCode_ with a National Certificate in IT(Systems Development). While I haven’t completed formal internships yet, I’ve dedicated my time to working on personal projects that showcase my skills in web development and programming.
 
+I’m passionate about using technology to solve real-world problems and am excited to bring my creativity and enthusiasm to a professional environment.
+ 
+ I’m currently seeking opportunities where I can grow and contribute to innovative teams. Feel free to connect with me at nhlakaniphongobe@gmail.com or check out my portfolio at https://thabanengobe.github.io/
 
 <!--
 **Thabanengobe/Thabanengobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
