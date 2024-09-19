@@ -6,6 +6,8 @@ I’m passionate about using technology to solve real-world problems and am exci
  
  I’m currently seeking opportunities where I can grow and contribute to innovative teams. Feel free to connect with me at nhlakaniphongobe@gmail.com or check out my portfolio at https://thabanengobe.github.io/
 
+### My Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 <!--
 **Thabanengobe/Thabanengobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
