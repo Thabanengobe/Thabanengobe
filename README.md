@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I Am Thabane Ngobe
+### About Me
+Hi! I’m Thabane Ngobe, a recent graduate from the WeThinkCode_ with a Certificate in IT(Systems Development). While I haven’t completed formal internships yet, I’ve dedicated my time to working on personal projects that showcase my skills in web development and programming.
+
 
 <!--
 **Thabanengobe/Thabanengobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
