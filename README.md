@@ -7,7 +7,7 @@ I’m passionate about using technology to solve real-world problems and am exci
  I’m currently seeking opportunities where I can grow and contribute to innovative teams. Feel free to connect with me at nhlakaniphongobe@gmail.com or check out my portfolio at https://thabanengobe.github.io/
 
 ### My Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" height="40" />
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
